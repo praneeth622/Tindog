@@ -1,0 +1,93 @@
+#title{
+    background-color : #ff4c68;
+    font-family: 'Montserrat-black', sans-serif;
+
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    color: aliceblue;
+    line-height: 1.5;
+}
+h2{
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: "Montserrat";
+    font-size: 1.5rem;
+}
+p{
+    color : #8f8f8f;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+/* Navigation bar */
+.navbar-brand{
+    font-family: 'ubuntu';
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+.navbar{
+    padding:0rem 0rem 4.5rem 0rem;
+}
+/* .row{
+    padding-top: 2.8rem;
+}
+we can use it also but touching row is not good thing
+ */
+.nav-item{
+    padding: 0px 18px;
+}
+.nav-link{
+    font-family: "Montserrat-light";
+    font-size: 1.2rem;
+}
+.download-btn{
+    margin:5% 2%;
+}
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+}
+/* Features */
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+#features{
+    padding:7% 15%;
+}
+.icon{
+    color: #ef8172;
+    padding-bottom: 9%;
+}
+.icon:hover{
+    color:#ff4c68
+}
+/* Testimonials */
+#testimonials{
+    
+    text-align: center;
+    background-color:#ef8172 ;
+    color:#fff;
+}
+.testimonial-image{
+    width:10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color:#ef8172 ;
+    text-align: center;
+    padding:3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding:7% 15%;
+}
